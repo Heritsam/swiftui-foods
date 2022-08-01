@@ -28,6 +28,9 @@
 		B25280A62896FC5B0063CA21 /* FoodCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = B25280A52896FC5B0063CA21 /* FoodCard.swift */; };
 		B25280A72896FC5B0063CA21 /* FoodCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = B25280A52896FC5B0063CA21 /* FoodCard.swift */; };
 		B25280A82896FC5B0063CA21 /* FoodCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = B25280A52896FC5B0063CA21 /* FoodCard.swift */; };
+		B25280AA2897DEDE0063CA21 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B25280A92897DEDE0063CA21 /* DetailView.swift */; };
+		B25280AB2897DEDE0063CA21 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B25280A92897DEDE0063CA21 /* DetailView.swift */; };
+		B25280AC2897DEDE0063CA21 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B25280A92897DEDE0063CA21 /* DetailView.swift */; };
 		B274872A2896A21500DB939D /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B27487292896A21500DB939D /* HomeView.swift */; };
 		B274872B2896A21500DB939D /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B27487292896A21500DB939D /* HomeView.swift */; };
 		B274872C2896A21500DB939D /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B27487292896A21500DB939D /* HomeView.swift */; };
@@ -65,6 +68,7 @@
 		B252809B2896EEA70063CA21 /* Poppins-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Medium.ttf"; sourceTree = "<group>"; };
 		B25280A12896F64C0063CA21 /* CategoryPill.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryPill.swift; sourceTree = "<group>"; };
 		B25280A52896FC5B0063CA21 /* FoodCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodCard.swift; sourceTree = "<group>"; };
+		B25280A92897DEDE0063CA21 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 		B274872828969BE200DB939D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		B27487292896A21500DB939D /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		B2DA5662289398A2001877D2 /* FavFoods.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FavFoods.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -153,6 +157,7 @@
 				B2DA5667289398A2001877D2 /* ContentView.swift */,
 				B21F2B5E2895A13300A147C3 /* GetStartedView.swift */,
 				B27487292896A21500DB939D /* HomeView.swift */,
+				B25280A92897DEDE0063CA21 /* DetailView.swift */,
 				B274872828969BE200DB939D /* Info.plist */,
 				B2DA5669289398A4001877D2 /* Assets.xcassets */,
 				B2DA566B289398A4001877D2 /* Preview Content */,
@@ -330,6 +335,7 @@
 				B2DA5668289398A2001877D2 /* ContentView.swift in Sources */,
 				B274872A2896A21500DB939D /* HomeView.swift in Sources */,
 				B21F2B5F2895A13300A147C3 /* GetStartedView.swift in Sources */,
+				B25280AA2897DEDE0063CA21 /* DetailView.swift in Sources */,
 				B25280A62896FC5B0063CA21 /* FoodCard.swift in Sources */,
 				B25280A22896F64C0063CA21 /* CategoryPill.swift in Sources */,
 				B2DA5666289398A2001877D2 /* FavFoodsApp.swift in Sources */,
@@ -341,6 +347,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B25280A32896F64C0063CA21 /* CategoryPill.swift in Sources */,
+				B25280AB2897DEDE0063CA21 /* DetailView.swift in Sources */,
 				B274872B2896A21500DB939D /* HomeView.swift in Sources */,
 				B25280A72896FC5B0063CA21 /* FoodCard.swift in Sources */,
 				B2DA5677289398A4001877D2 /* FavFoodsTests.swift in Sources */,
@@ -355,6 +362,7 @@
 				B2DA5683289398A4001877D2 /* FavFoodsUITestsLaunchTests.swift in Sources */,
 				B274872C2896A21500DB939D /* HomeView.swift in Sources */,
 				B21F2B612895A13300A147C3 /* GetStartedView.swift in Sources */,
+				B25280AC2897DEDE0063CA21 /* DetailView.swift in Sources */,
 				B25280A82896FC5B0063CA21 /* FoodCard.swift in Sources */,
 				B25280A42896F64C0063CA21 /* CategoryPill.swift in Sources */,
 				B2DA5681289398A4001877D2 /* FavFoodsUITests.swift in Sources */,
